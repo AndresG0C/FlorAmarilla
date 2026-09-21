@@ -262,10 +262,7 @@ body {
   width: 6.2vmin;
   height: 10.5vmin;
 
-  transform:
-    translate(-50%, 3%)
-    rotate(-25deg)
-    rotateY(18deg);
+   transform: translate(-10%, 1%) rotateY(40deg) rotateX(-50deg);
 
   transform-origin: bottom center;
 
@@ -276,9 +273,7 @@ body {
   width: 6.5vmin;
   height: 11vmin;
 
-  transform:
-    translate(-50%, -4%)
-    rotateX(5deg);
+  transform: translate(-50%, -4%) rotateX(40deg);
 
   transform-origin: bottom center;
 
@@ -289,10 +284,7 @@ body {
   width: 6.2vmin;
   height: 10.5vmin;
 
-  transform:
-    translate(-50%, 3%)
-    rotate(25deg)
-    rotateY(-18deg);
+  transform: translate(-90%, 0%) rotateY(45deg) rotateX(50deg);
 
   transform-origin: bottom center;
 
@@ -303,9 +295,7 @@ body {
   width: 6.7vmin;
   height: 8.5vmin;
 
-  transform:
-    translate(-50%, 22%)
-    rotateX(-12deg);
+  transform: translate(0%, 18%) rotateX(70deg) rotate(-43deg);
 
   transform-origin: bottom center;
 
